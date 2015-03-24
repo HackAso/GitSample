@@ -15,6 +15,7 @@ public class MainActivity extends ActionBarActivity {
         setContentView(R.layout.activity_main);
         TextView tv = new TextView(this);
         tv.setText("text");
+        //コメント書いてみた
         
     }
 
