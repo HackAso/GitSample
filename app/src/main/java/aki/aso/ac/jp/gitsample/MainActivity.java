@@ -20,12 +20,10 @@ public class MainActivity extends ActionBarActivity {
         //コメント書いてみた
         Log.d("TAG", "公也");
         Log.d("TAG", "公也2");
-<<<<<<< Updated upstream
         Log.d("TAG", "公也3");
 
-=======
         Log.d("TAG","きみやーよーをーはーーー2");
->>>>>>> Stashed changes
+
         //更にコメント
         
 
