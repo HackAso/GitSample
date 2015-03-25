@@ -10,6 +10,7 @@ import android.widget.TextView;
 
 public class MainActivity extends ActionBarActivity {
 
+    private String TAG="";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -17,11 +18,14 @@ public class MainActivity extends ActionBarActivity {
         TextView tv = new TextView(this);
         tv.setText("text");
         //コメント書いてみた
-
         Log.d("TAG", "公也");
         Log.d("TAG", "公也2");
+<<<<<<< Updated upstream
         Log.d("TAG", "公也3");
 
+=======
+        Log.d("TAG","きみやーよーをーはーーー2");
+>>>>>>> Stashed changes
         //更にコメント
         
 
