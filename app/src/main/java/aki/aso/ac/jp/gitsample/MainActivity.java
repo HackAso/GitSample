@@ -19,6 +19,7 @@ public class MainActivity extends ActionBarActivity {
         //コメント書いてみた
 
         Log.d("TAG", "公也");
+        Log.d("TAG", "公也2");
 
         //更にコメント
         
