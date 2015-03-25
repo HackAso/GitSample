@@ -17,7 +17,12 @@ public class MainActivity extends ActionBarActivity {
         TextView tv = new TextView(this);
         tv.setText("text");
         //コメント書いてみた
-        Log.d("TAG", "");
+
+        Log.d("TAG", "公也");
+
+        //更にコメント
+        
+
     }
 
 
