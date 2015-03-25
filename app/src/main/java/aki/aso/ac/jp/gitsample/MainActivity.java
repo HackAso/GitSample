@@ -2,6 +2,7 @@ package aki.aso.ac.jp.gitsample;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
@@ -16,7 +17,7 @@ public class MainActivity extends ActionBarActivity {
         TextView tv = new TextView(this);
         tv.setText("text");
         //コメント書いてみた
-        
+        Log.d("TAG", "");
     }
 
 
