@@ -6,4 +6,5 @@ package aki.aso.ac.jp.gitsample;
 public class Home {
     private static final String TAG = Home.class.getSimpleName();
     private final Home self = this;
+    Log.d(TAG,"hello");
 }
